@@ -4,7 +4,7 @@ A stylish and feature-rich web-based calculator built with **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
-[Click here to view the demo](#) 
+[Click here to view the demo](https://dsdipto7.github.io/CodeAlpha_Calculator/) 
 
 ---
 
